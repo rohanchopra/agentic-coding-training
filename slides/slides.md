@@ -345,3 +345,26 @@ opencode --version
 code --version</code></pre>
 
 </div>
+
+---
+
+# Live Project: Amazon Sales Dashboard
+
+We will now build a small data dashboard from a real Kaggle dataset.
+
+<div class="mt-8 grid grid-cols-2 gap-5 text-left">
+
+<div class="rounded-xl bg-blue-50 p-5">
+<p class="font-bold text-blue-700">Dataset</p>
+<p class="mt-2">Amazon product sales data from Kaggle.</p>
+<p class="mt-4 text-sm opacity-70">We will download it locally and keep it out of Git.</p>
+</div>
+
+<div class="rounded-xl bg-slate-900 p-5 text-white">
+<p class="font-bold text-blue-200">Stack</p>
+<p class="mt-2 opacity-80">Python, uv, pandas, and a simple dashboard app.</p>
+<p class="mt-4 text-sm opacity-70">The exact shape will emerge during the live build.</p>
+</div>
+
+</div>
+
