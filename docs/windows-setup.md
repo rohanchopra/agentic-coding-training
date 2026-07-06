@@ -59,7 +59,7 @@ In the Ubuntu terminal, run:
 ```bash
 sudo apt update
 sudo apt upgrade -y
-sudo apt install -y ca-certificates curl
+sudo apt install -y curl
 ```
 
 ## 4. Install Git
@@ -94,14 +94,6 @@ Then install the WSL extension:
 2. Go to Extensions.
 3. Search for `WSL`.
 4. Install the Microsoft `WSL` extension.
-
-Check VS Code from Ubuntu:
-
-```bash
-code --version
-```
-
-If `code` is not found, close and reopen Ubuntu, then try again.
 
 ## 6. Install Node.js and npm
 
