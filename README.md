@@ -1,25 +1,18 @@
 # AI Coding Tools Workshop
 
-A beginner-friendly workshop on using AI coding tools such as **opencode**, **Claude Code**, and **Codex** from a VS Code terminal.
+A beginner-friendly workshop on using AI coding tools such as **opencode**, **Claude Code**, and **Codex**.
 
-The goal is simple: show novices how to ask clear questions, inspect changes, and stay responsible for the result.
-
-This repo is intentionally documentation-first. It does not include custom opencode agents, skills, or a completed live project.
+The goal is simple: show novices how to ask clear questions, inspect changes, and stay responsible for the result. This repo is intentionally documentation-first.
 
 ## What Students Need To Know
 
-- Ask the tool to inspect before editing.
 - Make one small change at a time.
 - Review the diff before trusting the result.
 - Never paste API keys or secrets into prompts or files.
 
 ## Files To Use
 
-- `docs/setup.md` - student setup and prerequisites.
 - `docs/windows-setup.md` - Windows + WSL setup checklist.
-- `docs/commands.md` - basic terminal and opencode commands.
-- `docs/prompt-library.md` - copyable beginner prompts.
-- `docs/live-project.md` - small data dashboard project brief.
 - `live-project-starter/` - optional prompts and instructions for the dashboard project.
 
 ## Quick Start For Students
@@ -31,8 +24,6 @@ This repo is intentionally documentation-first. It does not include custom openc
 5. Run `/connect`, choose OpenRouter, and paste your API key.
 6. Run `/models` and choose a free or low-cost model.
 7. Ask opencode to explain the repo before making changes.
-
-See `docs/setup.md` for the setup checklist.
 
 ## Recommended First Prompt
 
@@ -48,13 +39,6 @@ Read this repository and explain it to a beginner. Do not edit files yet.
 4. Run a simple check.
 5. Keep, fix, or undo the change.
 
-## Tool Comparison
-
-| Tool | Simple Description |
-| --- | --- |
-| opencode | Terminal coding assistant with provider choice. |
-| Claude Code | Claude-powered coding assistant. |
-| Codex | OpenAI-powered coding assistant. |
 
 ## Live Project Policy
 

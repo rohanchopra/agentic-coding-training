@@ -1,21 +1,17 @@
 # AGENTS.md
 
-This repository is a minimal beginner-friendly workshop kit for AI coding tools with opencode, Claude Code, and Codex.
+This repository is a minimal beginner-friendly workshop kit for AI coding tools such as opencode, Claude Code, and Codex.
 
 ## Project Goals
 
-- Help novice students try practical AI coding workflows.
+- Help students try practical AI coding workflows.
 - Keep docs short and student-facing.
 - Demonstrate opencode basics with OpenRouter when setup is available.
-- Compare opencode, Claude Code, and Codex without turning the workshop into tool marketing.
 - Provide copyable commands, prompts, and starter instructions.
 - Keep the live project prompt-driven, tiny, and focused on a beginner data dashboard.
 
 ## Important Constraints
 
-- Do not add a completed live project to this repo.
-- Keep `live-project-starter/` limited to prompts, instructions, and templates.
-- Do not add project-local opencode agents, skills, commands, or plugins unless the workshop explicitly needs them.
 - Do not commit API keys, provider credentials, screenshots containing secrets, or local auth files.
 - Prefer small, reviewable documentation changes.
 - Keep student-facing language direct, practical, and low-hype.
